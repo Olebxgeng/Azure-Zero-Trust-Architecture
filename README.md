@@ -50,16 +50,6 @@ This project demonstrates how to implement a **Zero-Trust security architecture*
 
 ---
 
-## 🧱 High-Level Architecture
-
-**Logical Diagram**
-
-![Zero Trust Architecture Diagram](screenshots/architecture-diagram.png)
-
-> _Replace with your network/identity architecture diagram._
-
----
-
 ## 🛠 Step-by-Step Implementation
 
 ### 1. Conditional Access & Identity Protection
