@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> **Author:** Olebogeng Sebogodi (CyberPreacher)  
+> **Author:** Olebogeng Sebogodi  
 > **Category:** Cloud Security / Identity & Access Management  
 > **Platform:** Microsoft Azure
 
